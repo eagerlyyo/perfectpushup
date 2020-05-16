@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name='PerfectPushUp'
+include ':openCVLibrary343'
